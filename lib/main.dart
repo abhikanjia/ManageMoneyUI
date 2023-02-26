@@ -1,4 +1,6 @@
+import 'package:design/activity_page.dart';
 import 'package:design/money_splash_page.dart';
+import 'package:design/transaction_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
